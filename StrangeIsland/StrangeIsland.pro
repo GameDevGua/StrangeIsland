@@ -11,3 +11,6 @@ QML_IMPORT_PATH =
 
 # Default rules for deployment.
 include(deployment.pri)
+include(Character/Character.pri)
+include(Item/Item.pri)
+include(Level/Level.pri)
