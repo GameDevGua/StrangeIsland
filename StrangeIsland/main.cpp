@@ -1,5 +1,4 @@
 #include <QGuiApplication>
-#include <QQmlApplicationEngine>
 #include "Launching/launch.h"
 
 int main(int argc, char *argv[])
